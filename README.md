@@ -1,11 +1,11 @@
 # Deepak's Assignment
 ## Files
 
- 1. LoadData.R : 
- 2. Plot1.R
- 3. Plot2.R
- 4. Plot3.R
- 5. Plot4.R
+ 1. **LoadData.R** :  Downloads data into current working directory if it's not already present, and also loads into R
+ 2. **Plot1.R** : Creates and saves Plot 1
+ 3. **Plot2.R** :
+ 4. **Plot3.R** :
+ 5. **Plot4.R** :
 
 ----------
 
@@ -126,5 +126,5 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1NTA5NTJdfQ==
+eyJoaXN0b3J5IjpbMjAyMjAzMTM1OV19
 -->
