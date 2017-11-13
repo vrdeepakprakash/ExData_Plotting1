@@ -1,11 +1,10 @@
 # Deepak's Assignment
 ## Files
 
- 1. **ReadData.R** :  Downloads subsetted data into current working directory if it's not already present, and also loads into R
- 2. **Plot1.R** :  Reads Data. Creates and saves Plot1.png
- 3. **Plot2.R** : Reads Data. Creates and saves Plot2.png
- 4. **Plot3.R** : Reads Data. Creates and saves Plot3.png
- 5. **Plot4.R** : Reads Data. Creates and saves Plot4.png
+ 1. **Plot1.R** :  Reads Data. Creates and saves Plot1.png
+ 2. **Plot2.R** : Reads Data. Creates and saves Plot2.png
+ 3. **Plot3.R** : Reads Data. Creates and saves Plot3.png
+ 4. **Plot4.R** : Reads Data. Creates and saves Plot4.png
 
 
 Note: Subset for the given dates 2007-02-01 and
@@ -128,5 +127,5 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzUwMzQ4MV19
+eyJoaXN0b3J5IjpbNzQzODczOTI2XX0=
 -->
